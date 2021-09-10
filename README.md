@@ -1,0 +1,2 @@
+# analitica
+Almacenamiento mapas svg
